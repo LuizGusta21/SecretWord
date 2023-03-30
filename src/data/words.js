@@ -1,0 +1,28 @@
+export const wordsList = {
+  carro: ["Motor", "Porta", "Capô", "Pneu", "Antena"],
+  fruta: [
+    "Banana",
+    "Maçã",
+    "Pêra",
+    "Mamão",
+    "Laranja",
+    "Pitaia",
+    "Manga",
+    "Abacate",
+    "Morango",
+  ],
+  corpo: [
+    "Braço",
+    "Perna",
+    "Cérebro",
+    "Pescoço",
+    "Olhos",
+    "Femoral",
+    "Orelha",
+    "Nariz",
+    "Palato",
+  ],
+  computador: ["Mouse", "Teclado", "Monitor", "Gabinete"],
+  programação: ["Linguagem", "Framework", "JavaScript", "React"],
+  alimento: ["Arroz", "Feijão", "Carne", "Leite", "Ovo"],
+};
